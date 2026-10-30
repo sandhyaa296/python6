@@ -1,1 +1,2 @@
-price = 99.50 temperature = 36.6 
+price = 99.50
+temperature = 36.6
