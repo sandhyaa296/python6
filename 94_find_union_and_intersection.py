@@ -1,0 +1,7 @@
+# Write a Python program to find the union and intersection of two sets.
+set1 = {1, 2, 3, 4}
+set2 = {3, 4, 5, 6}
+union = set1.union(set2)
+intersection = set1.intersection(set2)
+print("Union:", union)
+print("Intersection:", intersection)
